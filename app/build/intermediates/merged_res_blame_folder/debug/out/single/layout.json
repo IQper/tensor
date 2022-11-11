@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-mergeDebugResources-4:\\layout\\content_main.xml",
+        "source": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-main-7:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-mergeDebugResources-4:\\layout\\fragment_list_rv.xml",
+        "source": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-main-7:\\layout\\fragment_list_rv.xml"
+    },
+    {
+        "merged": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-mergeDebugResources-4:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-main-7:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-mergeDebugResources-4:\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\you11\\.gradle\\daemon\\7.4\\com.example.pokemon.app-main-7:\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-mergeDebugResources-4:/layout/fragment_list.xml",
+        "source": "com.example.pokemon.app-main-7:/layout/fragment_list.xml"
+    }
+]
